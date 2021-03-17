@@ -1,0 +1,98 @@
+1 Aggravated Assault
+1 Alchemist’s Refuge
+1 Aqueous Form
+1 Bear Umbra
+1 Birds of Paradise CE
+1 Blatant Thievery
+1 Blue Suns Zenith
+1 Botanical Sanctum
+1 Boundless Realms
+1 Brainstorm
+1 Breeding Pool
+1 Bribery
+1 Chaos Warp
+1 Chromatic Lantern
+1 Cinder Glade
+1 Command Tower
+1 Counterspell CE
+1 Cultivate
+1 Cyclonic Rift
+1 Druids Repository
+1 Etali Primal Storm
+1 Exotic Orchard
+1 Expansion Explosion
+1 Exploration
+1 Explore
+1 Fabricate
+1 Fiery Confluence
+1 Growth Spiral
+1 Harmonize
+1 Heartbeat of Spring
+1 Heroic Intervention
+1 Hinterland Harbor
+1 Insurrection
+1 Kessig Wolf Run
+1 Ketria Triome
+1 Kodama’s Reach
+1 Lantern of Insight
+1 Lightning Greaves
+1 Lumbering Falls
+1 Maelstrom Wanderer
+1 Medomais Prophecy
+1 Memory Lapse
+1 Mirris Guile
+1 Misty Rainforest
+1 Moraug, Fury of Akoum
+1 Mystical Tutor
+1 Mystic Confluence
+1 Narsets Reversal
+1 Nature's Lore
+1 Neheb the Eternal
+1 Ponder
+1 Pongify
+1 Preordain
+1 Primal Command
+1 Rancor
+1 Rapid Hybridization
+1 Rattleclaw Mystic
+1 Reality Shift
+1 Relentless Assault
+1 Reliquary Tower
+1 Rewind
+1 Rootbound Crag
+1 Savage Beating
+1 Scalding Tarn
+1 Seasons Past
+1 Seize the Day
+1 Sheltered Thicket
+1 Shielding Plax
+1 Skyshroud Claim
+1 Sol Ring CE
+1 Spellseeker
+1 Spirebluff Canal
+1 Spire Garden
+1 Steam Vents
+1 Stolen Strategy
+1 Stomping Ground
+1 Submerge
+1 Sulfur Falls
+1 Swiftfoot Boots
+1 Sylvan Scrying
+1 Taiga
+1 Telemin Performance
+1 Temple of Abandon
+1 Temple of Epiphany
+1 Temple of Mystery
+1 Temporal Spring
+1 Temur Battle Rage
+1 Thought Vessel
+1 Totally Lost
+1 Tropical Island
+1 Veil of Summer
+1 Volcanic Island
+1 Whispersilk Cloak
+1 Worldly Tutor
+1 Yavimaya Coast
+2 Forest
+2 Island
+3 Mountain
